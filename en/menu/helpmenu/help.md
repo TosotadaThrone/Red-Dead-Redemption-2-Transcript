@@ -80,3 +80,14 @@ There are nine categories:
 
 -Weapons Expert
 
+## Combat
+
+### Description:
+
+A guide to the Combat system
+
+### Content:
+
+Weapons
+
+You can equip weapons, switch ammunation or view stats using the Weapon Wheel. Hold L1 to open the Weapon Wheel, use R to select the weapon you want to use, then release L1 to equip. 
