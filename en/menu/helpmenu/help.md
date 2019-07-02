@@ -36,4 +36,22 @@ Your Health. Stamina and Dead Eye Cores drain over time, If your Helth or Stamin
 
 Your health core will drain quickly if you are exposed to conditions such as extreme temperature, or are poisoned by a snake bite. More information about these conditions can be found in the Player section of the Pause menu.
 
-Cores also act as an extension of their related attribute bar. If a bar is emptied while using an ability, then the Core will begin to drain rapidly, allowing you to use the ability for a few additional seconds. Keep your Cores full to guarantee the maximum amount of reserve energy is available, should you need it.  
+Cores also act as an extension of their related attribute bar. If a bar is emptied while using an ability, then the Core will begin to drain rapidly, allowing you to use the ability for a few additional seconds. Keep your Cores full to guarantee the maximum amount of reserve energy is available, should you need it.
+
+Sleep
+
+Sleeping at a camp or bedroom will restore your health and save your game. You can sleep at the gang’s current camp or hideout, set up an individual camp in the wilderness, or rent a hotel room.
+
+Satchel
+
+Provisions, Kit, Documents and other items that you find or purchase are stored in your Satchel. To access the Satchel, hold (right directional icon). You can also choose to store Provisions on your horse as long as it is near you.
+
+Crafting
+
+You can craft or cook items whilst in the wilderness by selecting Camp in the item Wheel. This allows you to cook Meat and craft Ammo, Tonics, and Hunting supplies. You can find Pamphlets in the wilderness to learn new crafting recipes.
+
+Items you can craft include meals, ammo, health cures and remedies for yourself and your horse, lures for fishing, and improved weapos and equipment.
+
+Outfits
+
+You need to select the right outfit for the weather; being too hot or too cold for long will cause your Health Core to drain faster. You can change your clothes at a camp, a hotel room, a Tailor’s store or when facing your horse.
