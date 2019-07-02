@@ -55,3 +55,28 @@ Items you can craft include meals, ammo, health cures and remedies for yourself 
 Outfits
 
 You need to select the right outfit for the weather; being too hot or too cold for long will cause your Health Core to drain faster. You can change your clothes at a camp, a hotel room, a Tailor’s store or when facing your horse.
+
+Challenges
+
+You can earn special weapons, equipment and upgrades by completing various challenges.
+
+There are nine categories:
+
+-Bandit
+
+-Explorer
+
+-Gambler
+
+-Herbalist
+
+-Horseman
+
+-Master Hunter
+
+-Sharpshooter
+
+-Survivalist
+
+-Weapons Expert
+
