@@ -90,4 +90,16 @@ A guide to the Combat system
 
 Weapons
 
-You can equip weapons, switch ammunation or view stats using the Weapon Wheel. Hold L1 to open the Weapon Wheel, use R to select the weapon you want to use, then release L1 to equip. 
+You can equip weapons, switch ammunition or view stats using the Weapon Wheel. Hold L1 to open the Weapon Wheel, use R to select the weapon you want to use, then release L1 to equip. 
+
+Revolvers
+
+These six-chambered sidearms offer greater damage and accuracy compared to pistols, with the downside of slower reload times and fire rates.
+
+Pistols
+
+Compact and modern. Pistols are not as powerful as revolvers, but you can hold more ammunition and can be reloaded quickly during a fight.
+
+Repeaters
+
+Repeaters offer a superior rate of fire and ammunition capacity when compared to rifles, at the cost of lower accuracy and damage.
