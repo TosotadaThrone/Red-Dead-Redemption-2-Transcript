@@ -103,3 +103,19 @@ Compact and modern. Pistols are not as powerful as revolvers, but you can hold m
 Repeaters
 
 Repeaters offer a superior rate of fire and ammunition capacity when compared to rifles, at the cost of lower accuracy and damage.
+
+Rifles
+
+These ranged longarms are designed for precise shooting at distance. Great accuracy, but can be slow and cumbersome. With some long scoped rifles, a single shot can deal serious damage.
+
+Shotguns
+
+These are hefty firearms that shoot a batch of buckshot, effective at close range and against multiple targets. For a greater impact, switch to Slug ammunition.
+
+Bow and Arrows
+
+A silent and accurate weapon, a Bow allows for a sealthy approach to hunting or combat situations. Various kinds of arrows can be crafted and used.
+
+Thrown
+
+Weapons like throwing knifes and tomahawks can be used to take out enemies quickly and quietly. If stealth isn’t a priority, throw a Fire Bottle or some Dynamite in their general direction.
