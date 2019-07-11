@@ -119,3 +119,13 @@ A silent and accurate weapon, a Bow allows for a sealthy approach to hunting or 
 Thrown
 
 Weapons like throwing knifes and tomahawks can be used to take out enemies quickly and quietly. If stealth isn’t a priority, throw a Fire Bottle or some Dynamite in their general direction.
+
+Melee Weapons
+
+In situations where it’s not polite or possible to carry a gun, you can always use your fists. Find various knives and hatchets in the world which can give you the edge in a brawl.
+
+Lasso
+
+You can use the lasso to rope animals and to inmobilize enemies- it’s particularly useful for bounty hunts where the target is wanted alive. To lasso a target, equip your lasso like any other weapon, aim the target with L2 and R, and press R2 to hurl your lasso.
+
+Once you’ve lassoed a target, you can quickly approach them press O to hogtie and keep them still. The hogtied enemy can then be picked up and carried and even placed on your horse. Lassoed targets will break free after a short time if they’re not hogtied.
